@@ -41,14 +41,16 @@ Here are some answers to frequently asked questions:
 > - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 > - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  
 >  
-> For credit, you can use the following BibTeX:  
+> For credit, you can use the following BibTeX:
+> ```bibtex
 > @misc{canziani2020nyudlsp21,  
-  author = {Canziani, Alfredo and LeCun, Yann},  
-  title = {NYU Deep Learning, Spring 2021},  
-  howpublished = "\url{https://github.com/Atcold/NYU-DLSP21}",  
-  year = {2021},  
-  note = "[Online; accessed <today>]"  
-}
+>   author = {Canziani, Alfredo and LeCun, Yann},  
+>   title = {{NYU Deep Learning, Spring 2021}},
+>   howpublished = "\url{https://atcold.github.io/NYU-DLSP21}",  
+>   year = {2021},  
+>   note = "[Online; accessed <today>]"  
+> }
+> ```
 
 
 
